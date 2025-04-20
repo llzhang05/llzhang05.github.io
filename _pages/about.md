@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am Dr. Lingling Zhang, a lecturer at the School of Information Engineering, Capital Normal University. I received my Ph.D. in Computer Science from the School of Computer Science and Technology at Huazhong University of Science and Technology in 2020. From September 2020 to July 2023, I pursued postdoctoral research at the School of Computer Science, Beijing Institute of Technology, where I deepened my expertise in graph systems and high-performance computing.
 
 A data-driven personal website
 ======
