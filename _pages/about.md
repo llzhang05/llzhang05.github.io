@@ -11,21 +11,21 @@ I am Dr. Lingling Zhang, a lecturer at the School of Information Engineering, Ca
 
 Selected Publications
 ======
-	1.	Lingling Zhang, Yijian Wu, Hong Jiang, Ziyu Zhou and Tiancheng Lu, “LearnGraph: A Learning-Based Architecture for Dynamic Graph Processing,” DAC 2025 (To Appear)
+1. Lingling Zhang, Yijian Wu, Hong Jiang, Ziyu Zhou and Tiancheng Lu, “LearnGraph: A Learning-Based Architecture for Dynamic Graph Processing,” DAC 2025 (To Appear)
  
-	2.	Lingling Zhang, Hong Jiang, Ye Yuan, and Guoren Wang, “Influence Maximization in Hypergraphs by Stratified Sampling,” arXiv:2406.01911, 2024
+2. Lingling Zhang, Hong Jiang, Ye Yuan, and Guoren Wang, “Influence Maximization in Hypergraphs by Stratified Sampling,” arXiv:2406.01911, 2024
 	
-  3.	Lingling Zhang, Zhiping Shi, Zhiwei Zhang, Ye Yuan and Guoren Wang, “Efficiently Estimating Node Influence through Group Sampling over Large Graphs,” World Wide Web, 2024
+3. Lingling Zhang, Zhiping Shi, Zhiwei Zhang, Ye Yuan and Guoren Wang, “Efficiently Estimating Node Influence through Group Sampling over Large Graphs,” World Wide Web, 2024
 	
-  4.	Lingling Zhang, Zhiwei Zhang, Ye Yuan and Guoren Wang, “Efficiently Sampling and Estimating Hypergraphs by Hybrid Random Walk,” ICDE, 2023
+4. Lingling Zhang, Zhiwei Zhang, Ye Yuan and Guoren Wang, “Efficiently Sampling and Estimating Hypergraphs by Hybrid Random Walk,” ICDE, 2023
 	
-  5.	Lingling Zhang, Zhiwei Zhang, Ye Yuan and Guoren Wang,, “HyperISO: Efficiently Searching Subgraph Containment in Hypergraphs,” IEEE TKDE, 2022
+5. Lingling Zhang, Zhiwei Zhang, Ye Yuan and Guoren Wang,, “HyperISO: Efficiently Searching Subgraph Containment in Hypergraphs,” IEEE TKDE, 2022
 	
- 6.	Lingling Zhang Hong Jiang, Fang Wang and Dan Feng, “DRAWS: Dual Random-Walk Based Sampling for Estimating Graph Statistics,” Knowledge-Based Systems, 2020
+6. Lingling Zhang Hong Jiang, Fang Wang and Dan Feng, “DRAWS: Dual Random-Walk Based Sampling for Estimating Graph Statistics,” Knowledge-Based Systems, 2020
 	
- 7.	Lingling Zhang Hong Jiang, Fang Wang and Dan Feng,, “Reservoir-Based Sampling to Estimate Triangle Counts and Degrees in Large Graph Streams,” Future Generation Computer Systems, 2020
+7. Lingling Zhang Hong Jiang, Fang Wang and Dan Feng,, “Reservoir-Based Sampling to Estimate Triangle Counts and Degrees in Large Graph Streams,” Future Generation Computer Systems, 2020
 	
- 8.	Lingling Zhang Hong Jiang, Fang Wang and Dan Feng, “T-Sample: Dual Reservoir Sampling for Large Graph Streams,” ICDE, 2019
+8. Lingling Zhang Hong Jiang, Fang Wang and Dan Feng, “T-Sample: Dual Reservoir Sampling for Large Graph Streams,” ICDE, 2019
 
 
 
